@@ -1,0 +1,118 @@
+/* Navbar Part*/
+.logo-size{
+    width:198px;
+    height: 59px;
+}
+.sign-in-button{
+    width:104px;
+    height: 43px;
+    background-color:#21B573;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0px 3px lightgrey;
+    cursor: pointer;
+    color: white;
+}
+/*Top Banner Part*/
+.carousel-item{
+    padding: 20px 40px;
+}
+.top-banner-text{
+    font-weight: bold;
+}
+.banner-text{
+    color: #21B573;
+}
+.nav-bg-color{
+    background-color: #F0FFF0;
+}
+header{
+    background-color: #F0FFF0;
+}
+h6{
+    color: #FD511A;
+}
+.banner-regular-text{
+    color: #6C6B6B;
+}
+.start-button{
+    width: 153px;
+    height: 43px;
+    background-color:#21B573;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+/*Books Category Part*/
+.books-categories {
+    margin: 100px 0;
+  }
+  .book-box {
+    text-align: center;
+    padding: 30px;
+    background-color: #F8FFFB;
+    border-radius: 8px;
+  }
+  .book-box img {
+    width: 80px;
+    margin-bottom: 10px;
+  }
+  .book-box h3 {
+    font-size: 24px;
+    color: #413960;
+  }
+  .book-box small {
+    color: #585859;
+  }
+  .book-box:hover {
+    background-color: #FFFFFF;
+    box-shadow: 2px 5px 10px 3px lightgray;
+  }
+
+/*Course Category Part*/
+  .course-box {
+    box-shadow: 0 0 10px 3px #0000001a;
+    border-radius: 10px;
+    padding: 20px 15px;
+  }
+
+  .course-box h4 {
+    margin-top: 15px;
+    margin-bottom: 0;
+    color: #413960;
+  }
+  
+  .course-box small {
+    color: #585859;
+  }
+  
+  .course-box-footer {
+    padding-top: 40px;
+    display: flex;
+    color: #585859;
+    justify-content: space-between;
+  }
+/* Testimonial Part */
+  .testimonial-box img {
+    width: 100px;
+    margin-right: 30px;
+  }
+  
+  .testimonial-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+/* Footer Part */
+  #footer {
+    background-color: #272530;
+    color: #CDCDCD;
+  }
+  #footer ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
